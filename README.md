@@ -1,5 +1,7 @@
 # Top Coding Models Skill
 
+![Top Coding Models](top-coder.png)
+
 Solves choosing best coding models for agentic coding using live OpenRouter data.
 
 - Live BenchLM benchmarks (SWE-bench Pro + LiveCodeBench) & OpenRouter pricing
