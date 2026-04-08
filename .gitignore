@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Python
+.ruff_cache/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
